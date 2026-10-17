@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+h1 {
+    color: #031716;
+}
+
+main {
+    background: hsl(188, 45%, 32%);
+}
+
+body {
+    background: hsl(188, 45%, 32%);
+    font-family: Oswald;
+    color: #031716;
+    font-size: 20px;
+}
+
+.holding-book {
+    width: 500px;
+    height:800px;
+}
+
+.comparison {
+    width: 500px;
+    height: 800px;
+}
+
+footer {
+    color: #FFFFFF;
+    background:#032F30;
+    text-align: center;
+}
