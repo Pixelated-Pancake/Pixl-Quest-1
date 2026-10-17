@@ -1,7 +1,7 @@
 # Pixl-Quest-1
 First quest on ysws-pixl!
 
-FINAL FILES: 
+FINAL FILES: Anything with the "final" commit message
 
 - I had some issues with github so the files are a bit messed up, I apologise
 - Please refer to the final files only
@@ -16,4 +16,4 @@ DAY 2: 17-10-2026
   - Did ~2.5h of work
   - NOTE TO REVIEWER: Click the photo of me on the website!
 
-DAY 3:
+DAY 3: -
