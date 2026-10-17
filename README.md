@@ -16,4 +16,4 @@ DAY 2: 17-10-2026
   - Did ~2.5h of work
   - NOTE TO REVIEWER: Click the photo of me on the website!
 
-DAY 3: -
+Honestly, this taught me a lot. I got a lot to improve in html and I will make more websites and get better at it. I also got a checklist for stuff I need to do better, like maneuvering github and vscode, coding itself, etc. Learnt a lot tho, I watched bro code's HTML tutorial for this and it was cool=
